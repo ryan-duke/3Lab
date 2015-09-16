@@ -1,0 +1,2 @@
+module SpearlabHelper
+end
